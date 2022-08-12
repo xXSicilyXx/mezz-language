@@ -18,8 +18,10 @@ so if you're not sure if your editor handles this, use "Save As" functionality a
 - The backslash (\) sign next to the quotation marks (" ") is made for the HTML code to work properly, be careful when editing it.
 
 ## Thanks for the translation
-> https://github.com/yilmazev (TR-EN)
+> https://github.com/yilmazev (TR)
 > 
 > https://github.com/sisvo (EN)
 >
 > https://github.com/rykhil (PT-ES)
+>
+> https://github.com/Ormani3 (NL)
