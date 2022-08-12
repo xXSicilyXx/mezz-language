@@ -21,3 +21,5 @@ so if you're not sure if your editor handles this, use "Save As" functionality a
 > https://github.com/yilmazev (TR-EN)
 > 
 > https://github.com/sisvo (EN)
+>
+> https://github.com/rykhil (BR-PT)
