@@ -19,3 +19,5 @@ so if you're not sure if your editor handles this, use "Save As" functionality a
 
 ## Thanks for the translation
 > https://github.com/yilmazev (TR-EN)
+> https://github.com/sallman0 (EN)
+> https://github.com/sisvo (EN)
