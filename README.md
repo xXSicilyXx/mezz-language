@@ -25,3 +25,5 @@ so if you're not sure if your editor handles this, use "Save As" functionality a
 > https://github.com/rykhil (PT-ES)
 >
 > https://github.com/Ormani3 (NL)
+>
+> https://github.com/ZorkedFR (FR)
