@@ -1,3 +1,5 @@
+### ![Discord](https://img.shields.io/discord/952572046196494426?label=Discord&logo=discord&logoColor=white) https://discord.gg/mrueCjXjeF
+
 # Mezz CMS language files
 This project contains the language files for https://mezz.gq.
 
