@@ -1,4 +1,8 @@
-### ![Discord](https://img.shields.io/discord/952572046196494426?label=Discord&logo=discord&logoColor=white) https://discord.gg/mrueCjXjeF
+## ![image](https://user-images.githubusercontent.com/81462055/185110660-0fed3104-73e3-4ac2-b5b9-9a46113a5b04.png)
+
+![Discord](https://img.shields.io/discord/952572046196494426?label=Discord&logo=discord&logoColor=white)
+![GitHub contributors](https://img.shields.io/github/contributors/yilmazev/mezz-language?label=Contributors&logo=github&logoColor=white)
+
 
 # Mezz CMS language files
 This project contains the language files for https://mezz.gq.
@@ -29,3 +33,6 @@ so if you're not sure if your editor handles this, use "Save As" functionality a
 > https://github.com/Ormani3 (NL)
 >
 > https://github.com/ZorkedFR (FR)
+
+## Join Our Discord Community
+https://discord.gg/mrueCjXjeF
