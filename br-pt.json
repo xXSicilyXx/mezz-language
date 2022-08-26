@@ -39,6 +39,8 @@
 	"error_password_not_match_text": "Suas duas senhas não correspondem, tente novamente.",
 	"error_redeem_does_not_exist_topic": "Cupom inválido",
 	"error_redeem_does_not_exist_text": "Este código de cupom é inválido ou indisponível.",
+	"error_redeem_already_used_topic": "Você já usou o código",
+	"error_redeem_already_used_text": "Você não pode reutilizar um código que já usou.",
 	"error_online_topic": "Você está online",
 	"error_online_text": "Este processo não pode ser concluído porque você está online. Tente novamente após o check-out do hotel.",
 	"events_title": "Eventos",
