@@ -39,6 +39,8 @@
 	"error_password_not_match_text": "Sus dos contraseñas no coinciden, inténtelo de nuevo.",
 	"error_redeem_does_not_exist_topic": "Cupón no válido",
 	"error_redeem_does_not_exist_text": "Este código de cupón no es válido o no está disponible.",
+	"error_redeem_already_used_topic": "Ya has usado el código",
+	"error_redeem_already_used_text": "No puede reutilizar un código que ya ha utilizado.",
 	"error_online_topic": "Estás en línea",
 	"error_online_text": "Este proceso no se puede completar porque está en línea. Vuelva a intentarlo después de salir del hotel.",
 	"events_title": "Eventos",
