@@ -39,6 +39,8 @@
 	"error_password_not_match_text": "The password repeat must be same with your password.",
 	"error_redeem_does_not_exist_topic": "Invalid code",
 	"error_redeem_does_not_exist_text": "This code is invalid or unavailable.",
+	"error_redeem_already_used_topic": "You have already used code",
+	"error_redeem_already_used_text": "You cannot reuse a code you have already used.",
 	"error_online_topic": "You are online",
 	"error_online_text": "This process cannot be completed because you are online. Try again after checking out from the hotel.",
 	"events_title": "Events",
