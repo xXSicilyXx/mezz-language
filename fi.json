@@ -15,6 +15,8 @@
 	"error_incorrect_currently_email_text": "The email address you are currently using is not correct, please try again.",
 	"error_blank_inputs_topic": "Cannot be empty",
 	"error_blank_inputs_text": "Please enter a valid name.",
+	"error_max_redeem_topic": "This code is no longer available",
+	"error_max_redeem_text": "No more people can use this code.",
 	"error_no_user_topic": "There is no such user",
 	"error_no_user_text": "Frank couldn't find one, you can try to register.",
 	"error_no_redeem_topic": "Cannot be blank",
