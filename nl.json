@@ -39,6 +39,8 @@
 	"error_password_not_match_text": "Je twee wachtwoorden komen niet overeen, probeer nog eens.",
 	"error_redeem_does_not_exist_topic": "Ongeldige code",
     "error_redeem_does_not_exist_text": "Dit code is niet geldig.",
+	"error_redeem_already_used_topic": "Je hebt al code gebruikt",
+	"error_redeem_already_used_text": "U kunt een code die u al hebt gebruikt niet opnieuw gebruiken.",
 	"error_online_topic": "Je bent online",
     "error_online_text": "Omdat je nog online bent in het hotel kan je niks doen, probeer het later opnieuw wanneer je uit het hotel bent.",
     "events_title": "Evenementen",
