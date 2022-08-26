@@ -15,6 +15,8 @@
     "error_incorrect_currently_email_text": "Het email adres dat je momenteel gebruikt is niet goed.",
 	"error_blank_inputs_topic": "Kan niet leeg zijn",
 	"error_blank_inputs_text": "Wees zeker dat je alle velden hebt ingevuld.",
+	"error_max_redeem_topic": "Deze code is niet meer beschikbaar",
+	"error_max_redeem_text": "Deze code kunnen niet meer mensen gebruiken.",
 	"error_no_user_topic": "Dit gebruiker bestaat niet",
 	"error_no_user_text": "Frank kon dit gebruiker niet vinden, je kan je proberen te registreren.",
 	"error_no_redeem_topic": "Kan niet leeg gelaten worden.",
