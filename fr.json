@@ -15,6 +15,8 @@
 	"error_incorrect_currently_email_text": "L'adresse email que vous utilisez actuellement n'est pas correcte, veuillez réessayer.",
 	"error_blank_inputs_topic": "Ne peut être vide",
 	"error_blank_inputs_text": "Assurez-vous de remplir complètement les informations.",
+	"error_max_redeem_topic": "Ce code n'est plus disponible",
+	"error_max_redeem_text": "Plus personne ne peut utiliser ce code.",
 	"error_no_user_topic": "Il n'y a pas un tel utilisateur",
 	"error_no_user_text": "Frank n'en a pas trouvé, vous pouvez essayer de vous inscrire.",
 	"error_no_redeem_topic": "Ne peut être vide",
