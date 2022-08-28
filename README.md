@@ -33,6 +33,8 @@ so if you're not sure if your editor handles this, use "Save As" functionality a
 > https://github.com/Ormani3 (NL)
 >
 > https://github.com/ZorkedFR (FR)
+>
+> https://github.com/NoOneNook (NO)
 
 ## Join Our Discord Community
 https://discord.gg/mrueCjXjeF
